@@ -1,7 +1,7 @@
 # One Lane Bridge Problem Simulator
 
 ##### 02/01/2022
-#####Gabriel Kiprono
+##### Gabriel Kiprono
 
 ---
 
